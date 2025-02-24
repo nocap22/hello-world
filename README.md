@@ -1,2 +1,11 @@
-Hello my name is Ethan. This is the 2nd time ive ever learned how to code. I live in indiana and is a big pacers fan # hello-world
-This repository is for practicing the GitHub Flow.
+# This program will print the sentence "It is raining cats and dogs."
+
+# Defining variables for the animals and the sentence.
+c = "cats"
+d = "dogs"
+
+# Creating the sentence with proper spacing
+s = "It is raining " + c + " and " + d + "."
+
+# Printing the final sentence to the console
+print(s)
